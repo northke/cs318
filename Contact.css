@@ -13,17 +13,27 @@ header{
 
 main{
     background-color: lightyellow;
-    padding: 10px;
+    padding: 20px;
     margin-left: 125px;
     text-align: center;
+    
 }
 
 footer{
     background-color: deepskyblue;
     padding: 10px;
+    bottom:0;
+    width: 600px;
     text-align: center;
     background-color: lightyellow;
 }
+/*
+#text {
+ padding-top:
+
+
+}
+*/
 
 body{
     width: 600px;
@@ -48,11 +58,14 @@ h2{
     clear: both;
     background-color: lightyellow;
 }
-#image {
-    width: 400
-    
-}
+
+
 #Facebook{ 
-width: 120
+width: 120;
 }
-<div id="map" style="width:400px;height:400px">
+/*
+#map {
+    position: ; 
+    right:12em;
+}
+*/
